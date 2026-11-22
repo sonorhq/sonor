@@ -1,10 +1,44 @@
-# Sonor
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset=".github/assets/sonor-logo-on-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset=".github/assets/sonor-logo-on-light.svg">
+    <img alt="Sonor" src=".github/assets/sonor-logo-on-light.svg" width="320">
+  </picture>
+</p>
 
-Sonor is a music player for Subsonic and Navidrome servers, on desktop and mobile. This
-repository holds what is published for it: the public beta builds and the LGPL source bundles of
-the libraries its desktop apps include. Sonor's own source code is not public.
+<p align="center">
+  <strong>A music player for the music server you already run.</strong><br>
+  macOS · Windows · Linux · Android · iOS
+</p>
+
+<p align="center">
+  <a href="https://sonor.fi"><strong>Download the beta</strong></a>
+</p>
+
+<p align="center">
+  <img alt="Sonor's home screen on the desktop, with a song playing in the side panel" src=".github/assets/screenshots/desktop-home.webp" width="900">
+</p>
+
+Sonor plays your own music library from a server you already run: Subsonic and OpenSubsonic
+servers (Navidrome, Gonic, Airsonic, Ampache, LMS and others), Jellyfin and Emby. It runs on
+desktop (macOS, Windows, Linux) and mobile (Android with Android Auto, iOS with CarPlay).
+
+- Gapless playback, play next and add to the queue, likes and playlists.
+- Downloads for offline listening, and the next songs cached ahead as you play.
+- Lyrics, and the system's media keys and now-playing controls on every platform.
+
+This repository holds what is published for it: the public beta builds and the LGPL source
+bundles of the libraries its desktop apps include. Sonor's own source code is not public.
+
+## Screenshots
+
+<p align="center">
+  <img alt="A playlist, with the song it plays in the now-playing panel" src=".github/assets/screenshots/desktop-nowplaying.webp" width="900">
+</p>
 
 ## Public beta
+
+<img align="right" alt="" src=".github/assets/sonor-icon.svg" width="96">
 
 Download the latest beta from [Releases](https://github.com/sonorhq/sonor/releases). Each beta
 ships for:
