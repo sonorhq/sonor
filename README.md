@@ -32,8 +32,19 @@ bundles of the libraries its desktop apps include. Sonor's own source code is no
 
 ## Screenshots
 
+**Desktop**
+
 <p align="center">
   <img alt="A playlist, with the song it plays in the now-playing panel" src=".github/assets/screenshots/desktop-nowplaying.webp" width="900">
+</p>
+
+**Mobile**
+
+<p align="center">
+  <img alt="The home screen on a phone, with recently played albums" src=".github/assets/screenshots/phone-home.webp" width="200">
+  <img alt="Now playing on a phone, with the cover, controls and progress" src=".github/assets/screenshots/phone-nowplaying.webp" width="200">
+  <img alt="Synced lyrics on a phone, following the song" src=".github/assets/screenshots/phone-lyrics.webp" width="200">
+  <img alt="The library's downloads on a phone, kept for offline listening" src=".github/assets/screenshots/phone-offline.webp" width="200">
 </p>
 
 ## Public beta
